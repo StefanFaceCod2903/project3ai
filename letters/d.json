@@ -1,0 +1,45 @@
+{
+    "origin" : "right",
+    "point" : {
+        "arm" : -1,
+        "offset" : 2
+    },
+    "arms": [{
+        "color": "black",
+        "lenght": 5,
+        "goal": "f",
+        "parent": -1,
+        "offsetParent": 4,
+        "offset": 0,
+        "current": "f"
+      },
+      {
+        "color": "white",
+        "lenght": 5,
+        "goal": "l",
+        "parent": 0,
+        "offsetParent": 0,
+        "offset": 0,
+        "current": "f"
+
+      },
+      {
+        "color": "white",
+        "lenght": 5,
+        "goal": "l",
+        "parent": 1,
+        "offsetParent": 0,
+        "offset": 0,
+        "current": "f"
+
+      },
+      {
+        "color": "white",
+        "lenght": 3,
+        "goal": "f",
+        "parent": 2,
+        "offsetParent": 4,
+        "offset": 0,
+        "current": "b"
+      }]
+}
